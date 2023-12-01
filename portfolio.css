@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+navbar {
+    background-color: #f8f9fa !important;
+}
+
+navbar-brand {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+}
+
+/* Add your custom styles here */
